@@ -7,13 +7,15 @@
 
 import SwiftUI
 
+// Test de fonctionnement xcode et Github
+
 struct ContentView: View {
     var body: some View {
         VStack {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundColor(.accentColor)
-            Text("Hello, world!")
+            Text("This is a xcode test")
         }
         .padding()
     }
