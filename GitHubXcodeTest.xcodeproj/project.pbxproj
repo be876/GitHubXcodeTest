@@ -11,6 +11,7 @@
 		CEAB3FD12A1B7FA100D8CF8E /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEAB3FD02A1B7FA100D8CF8E /* MainView.swift */; };
 		CEAB3FD32A1B7FA300D8CF8E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CEAB3FD22A1B7FA300D8CF8E /* Assets.xcassets */; };
 		CEAB3FD62A1B7FA300D8CF8E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CEAB3FD52A1B7FA300D8CF8E /* Preview Assets.xcassets */; };
+		CEAB3FDD2A1B824F00D8CF8E /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEAB3FDC2A1B824F00D8CF8E /* SecondView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		CEAB3FD02A1B7FA100D8CF8E /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
 		CEAB3FD22A1B7FA300D8CF8E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CEAB3FD52A1B7FA300D8CF8E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		CEAB3FDC2A1B824F00D8CF8E /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				CEAB3FCE2A1B7FA100D8CF8E /* GitHubXcodeTestApp.swift */,
 				CEAB3FD02A1B7FA100D8CF8E /* MainView.swift */,
+				CEAB3FDC2A1B824F00D8CF8E /* SecondView.swift */,
 				CEAB3FD22A1B7FA300D8CF8E /* Assets.xcassets */,
 				CEAB3FD42A1B7FA300D8CF8E /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CEAB3FDD2A1B824F00D8CF8E /* SecondView.swift in Sources */,
 				CEAB3FD12A1B7FA100D8CF8E /* MainView.swift in Sources */,
 				CEAB3FCF2A1B7FA100D8CF8E /* GitHubXcodeTestApp.swift in Sources */,
 			);
